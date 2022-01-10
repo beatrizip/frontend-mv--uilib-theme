@@ -1,0 +1,14 @@
+$c-primary: #3b5998;
+$c-accent: #faf079;
+
+$c-primary-light-1: color-variation($c-primary, 1);
+$c-primary-light-2: color-variation($c-primary, 2);
+$c-primary-light-3: color-variation($c-primary, 3);
+$c-primary-light-4: color-variation($c-primary, 4);
+$c-primary-light-5: color-variation($c-primary, 5);
+
+$c-accent-light-1: color-variation($c-accent, 1);
+$c-accent-light-2: color-variation($c-accent, 2);
+$c-accent-light-3: color-variation($c-accent, 3);
+$c-accent-light-4: color-variation($c-accent, 4);
+$c-accent-light-5: color-variation($c-accent, 5);
